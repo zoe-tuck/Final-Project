@@ -1,0 +1,12 @@
+.blog-post-header2-blog-post-header3 {
+  height: 1126px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: center;
+}
+.blog-post-header2-image {
+  width: 1200px;
+  min-width: var(--dl-size-size-large);
+  object-fit: cover;
+}

@@ -1,0 +1,201 @@
+.reddit-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.reddit-image1 {
+  width: var(--dl-size-size-maxwidth);
+  object-fit: cover;
+}
+.reddit-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.reddit-container3 {
+  flex: 0 0 auto;
+  width: 219px;
+  height: 711px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.reddit-image2 {
+  width: 100%;
+  height: 593px;
+  object-fit: cover;
+}
+.reddit-container4 {
+  flex: 0 0 auto;
+  width: 709px;
+  height: 840px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.reddit-container5 {
+  width: 100%;
+  height: 490px;
+  display: flex;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: center;
+}
+.reddit-text13 {
+  width: 716px;
+  height: 453px;
+  display: block;
+  font-size: 20px;
+  align-self: flex-end;
+  margin-top: var(--dl-space-space-threeunits);
+  text-align: left;
+  line-height: 1;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  text-transform: lowercase;
+}
+.reddit-text14 {
+  color: #1d5c5c;
+  text-transform: lowercase;
+  background-color: rgb(187, 180, 180);
+}
+.reddit-text15 {
+  color: #1d5c5c;
+  text-transform: lowercase;
+  background-color: rgb(187, 180, 180);
+}
+.reddit-text16 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text17 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text18 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text19 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text20 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text21 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text22 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text23 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text24 {
+  color: var(--dl-color-theme-neutral-dark);
+}
+.reddit-text25 {
+  color: var(--dl-color-theme-neutral-dark);
+}
+.reddit-text26 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text27 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text28 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text29 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text30 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text31 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text32 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text33 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text34 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text35 {
+  color: var(--dl-color-theme-neutral-dark);
+  text-transform: lowercase;
+}
+.reddit-text36 {
+  color: var(--dl-color-theme-neutral-dark);
+}
+.reddit-text37 {
+  color: var(--dl-color-theme-neutral-dark);
+}
+.reddit-navlink {
+  width: 473px;
+  height: 40px;
+  display: flex;
+  border-radius: var(--dl-radius-radius-cardradius);
+  flex-direction: row;
+  text-decoration: none;
+  background-color: rgb(206, 15, 15);
+}
+.reddit-text38 {
+  text-align: center;
+}
+.reddit-container6 {
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 47px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.reddit-image3 {
+  width: 100%;
+  height: 152px;
+  object-fit: cover;
+}
+.reddit-image4 {
+  width: 392px;
+  height: 583px;
+  object-fit: cover;
+  margin-bottom: 44px;
+}
+.reddit-container7 {
+  flex: 0 0 auto;
+  width: 239px;
+  height: 716px;
+  display: flex;
+  align-items: center;
+  border-color: rgba(25, 24, 24, 0);
+  border-width: 1px;
+  flex-direction: column;
+  justify-content: center;
+}
